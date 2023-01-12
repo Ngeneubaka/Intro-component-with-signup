@@ -38,7 +38,7 @@ function App() {
 
   return (
     <>
-      <section className="showcase">
+      <section className="show-case">
         <div className="overlay">
           <article>
             <h1>Learn to code by watching others</h1>
